@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Concert
+comment0.text=\r\n\ CLASE\ CONCERT\ DE\ LA\ SESION\ NO\ PRESENCIAL\ 9\r\n\ \r\n\ @author\ MARCIAL\ RICO\ POZAS\ \r\n\ @version\ 24/11/2017\r\n
+comment1.params=name\ price\ date
+comment1.target=Concert(java.lang.String,\ double,\ Date)
+comment1.text=\r\n\ constructor\ con\ parametros\ de\ objetos\ de\ la\ clase\ Concert\r\n\ @param\ name,\ un\ String\ que\ asigna\ el\ nombre\ del\ concierto\r\n\ @param\ price,\ un\ double\ que\ asigna\ el\ precio\r\n\ @param\ date,\ un\ Date\ que\ asigna\ una\ fecha\ al\ concierto\r\n
+comment2.params=name
+comment2.target=void\ setName(java.lang.String)
+comment2.text=\r\n\ metodo\ set\ del\ atributo\ name\r\n\ @param\ name,\ un\ string\ que\ asigna\ un\ nombre\r\n
+comment3.params=price
+comment3.target=void\ setPrice(double)
+comment3.text=\r\n\ metodo\ set\ del\ atributo\ price\r\n
+comment4.params=date
+comment4.target=void\ setDate(Date)
+comment4.text=\r\n\ metodo\ set\ del\ atributo\ date\r\n\ @param\ date,\ un\ tipo\ Date\ que\ asigna\ una\ fecha\ al\ concierto\r\n
+comment5.params=
+comment5.target=java.lang.String\ getName()
+comment5.text=\r\n\ metodo\ get\ del\ atributo\ name\r\n\ @return\ el\ valor\ de\ name\r\n
+comment6.params=
+comment6.target=double\ getPrice()
+comment6.text=\r\n\ metodo\ get\ del\ atributo\ price\r\n\ @return\ el\ valor\ de\ price\r\n
+comment7.params=
+comment7.target=Date\ getDate()
+comment7.text=\r\n\ metodo\ get\ del\ atributo\ Date\r\n\ @return\ el\ valor\ de\ Date\r\n
+numComments=8

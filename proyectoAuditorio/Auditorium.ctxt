@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Auditorium
+comment0.text=\r\n\ CLASE\ AUDITORIUM\ DE\ LA\ SESION\ NO\ PRESENCIAL\ 10\r\n\ \r\n\ @author\ MARCIAL\ RICO\ POZAS\r\n\ @version\ 24/11/2017\r\n
+comment1.params=
+comment1.target=Auditorium()
+comment1.text=\r\n\ constructor\ por\ defecto\ de\ objetos\ de\ la\ clase\ Auditorium\r\n
+comment2.params=concertName
+comment2.target=Concert\ seekConcert(java.lang.String)
+comment2.text=\r\n\ metodo\ seekConcert\ de\ la\ clase\ Auditorium\r\n\ @param\ concertName,\ que\ indica\ el\ nombre\ del\ concierto\ a\ buscar\r\n
+comment3.params=concertName\ price\ date
+comment3.target=void\ addConcert(java.lang.String,\ double,\ Date)
+comment3.text=\r\n\ metodo\ addConcert\ de\ la\ clase\ Auditorium\r\n\ @param\ concertName,\ un\ tipo\ String\ que\ indica\ el\ nombre\ del\ concierto\r\n\ @param\ date,\ un\ tipo\ Date\ que\ indica\ la\ fecha\ del\ concierto\r\n\ @param\ price,\ un\ double\ que\ indica\ el\ precio\ del\ billete\r\n
+comment4.params=year
+comment4.target=void\ removeConcerts(int)
+comment4.text=\r\n\ metodo\ remove\ concerts\ de\ la\ clase\ Auditorium\r\n\ @param\ year,\ un\ entero\ que\ indica\ el\ a\u00F1o\ de\ los\ conciertos\ a\ borrar\r\n
+comment5.params=
+comment5.target=java.util.ArrayList\ getConcerts()
+comment5.text=\r\n\ metodo\ get\ del\ atributo\ concerts\r\n\ @return\ el\ valor\ de\ concerts\r\n
+numComments=6

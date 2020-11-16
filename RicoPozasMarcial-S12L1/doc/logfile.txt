@@ -1,0 +1,62 @@
+Class documentation
+<---- javadoc command: ---->
+C:\Program Files (x86)\BlueJ\jdk\bin\javadoc.exe
+-author
+-version
+-nodeprecated
+-package
+-Xdoclint:none
+-noindex
+-notree
+-nohelp
+-nonavbar
+-source
+1.8
+-classpath
+C:\Program Files (x86)\BlueJ\lib\bluejcore.jar;C:\Program Files (x86)\BlueJ\lib\junit-4.11.jar;C:\Program Files (x86)\BlueJ\lib\hamcrest-core-1.3.jar;C:\Program Files (x86)\BlueJ\lib\lang-stride.jar;C:\Program Files (x86)\BlueJ\lib\userlib\pi4j-core.jar;C:\Program Files (x86)\BlueJ\lib\userlib\pi4j-device.jar;C:\Program Files (x86)\BlueJ\lib\userlib\pi4j-gpio-extension.jar;C:\Program Files (x86)\BlueJ\lib\userlib\pi4j-service.jar;D:\Documents\Universidad\Primer año\Primer Cuatrimestre\Introducción a la Programación\PRÁTICAS\RicoPozasMarcial-S12L1
+-d
+D:\Documents\Universidad\Primer año\Primer Cuatrimestre\Introducción a la Programación\PRÁTICAS\RicoPozasMarcial-S12L1\doc
+-encoding
+UTF-8
+-charset
+UTF-8
+D:\Documents\Universidad\Primer año\Primer Cuatrimestre\Introducción a la Programación\PRÁTICAS\RicoPozasMarcial-S12L1\SeatManager.java
+<---- end of javadoc command ---->
+Loading source file D:\Documents\Universidad\Primer año\Primer Cuatrimestre\Introducción a la Programación\PRÁTICAS\RicoPozasMarcial-S12L1\SeatManager.java...
+Constructing Javadoc information...
+Standard Doclet version 1.8.0_131
+Building tree for all the packages and classes...
+Generating D:\Documents\Universidad\Primer año\Primer Cuatrimestre\Introducción a la Programación\PRÁTICAS\RicoPozasMarcial-S12L1\doc\SeatManager.html...
+D:\Documents\Universidad\Primer año\Primer Cuatrimestre\Introducción a la Programación\PRÁTICAS\RicoPozasMarcial-S12L1\SeatManager.java:39: warning - @param argument "first," is not a parameter name.
+D:\Documents\Universidad\Primer año\Primer Cuatrimestre\Introducción a la Programación\PRÁTICAS\RicoPozasMarcial-S12L1\SeatManager.java:39: warning - @param argument "standard," is not a parameter name.
+D:\Documents\Universidad\Primer año\Primer Cuatrimestre\Introducción a la Programación\PRÁTICAS\RicoPozasMarcial-S12L1\SeatManager.java:217: warning - @param argument "persona," is not a parameter name.
+D:\Documents\Universidad\Primer año\Primer Cuatrimestre\Introducción a la Programación\PRÁTICAS\RicoPozasMarcial-S12L1\SeatManager.java:217: warning - @param argument "final," is not a parameter name.
+D:\Documents\Universidad\Primer año\Primer Cuatrimestre\Introducción a la Programación\PRÁTICAS\RicoPozasMarcial-S12L1\SeatManager.java:284: warning - @param argument "columna," is not a parameter name.
+D:\Documents\Universidad\Primer año\Primer Cuatrimestre\Introducción a la Programación\PRÁTICAS\RicoPozasMarcial-S12L1\SeatManager.java:274: warning - @param argument "fila," is not a parameter name.
+D:\Documents\Universidad\Primer año\Primer Cuatrimestre\Introducción a la Programación\PRÁTICAS\RicoPozasMarcial-S12L1\SeatManager.java:453: warning - @param argument "row," is not a parameter name.
+D:\Documents\Universidad\Primer año\Primer Cuatrimestre\Introducción a la Programación\PRÁTICAS\RicoPozasMarcial-S12L1\SeatManager.java:199: warning - @param argument "row," is not a parameter name.
+D:\Documents\Universidad\Primer año\Primer Cuatrimestre\Introducción a la Programación\PRÁTICAS\RicoPozasMarcial-S12L1\SeatManager.java:467: warning - @param argument "column," is not a parameter name.
+D:\Documents\Universidad\Primer año\Primer Cuatrimestre\Introducción a la Programación\PRÁTICAS\RicoPozasMarcial-S12L1\SeatManager.java:402: warning - @param argument "area," is not a parameter name.
+D:\Documents\Universidad\Primer año\Primer Cuatrimestre\Introducción a la Programación\PRÁTICAS\RicoPozasMarcial-S12L1\SeatManager.java:512: warning - @param argument "row1," is not a parameter name.
+D:\Documents\Universidad\Primer año\Primer Cuatrimestre\Introducción a la Programación\PRÁTICAS\RicoPozasMarcial-S12L1\SeatManager.java:512: warning - @param argument "row2," is not a parameter name.
+D:\Documents\Universidad\Primer año\Primer Cuatrimestre\Introducción a la Programación\PRÁTICAS\RicoPozasMarcial-S12L1\SeatManager.java:512: warning - @param argument "colum1," is not a parameter name.
+D:\Documents\Universidad\Primer año\Primer Cuatrimestre\Introducción a la Programación\PRÁTICAS\RicoPozasMarcial-S12L1\SeatManager.java:512: warning - @param argument "colum2," is not a parameter name.
+D:\Documents\Universidad\Primer año\Primer Cuatrimestre\Introducción a la Programación\PRÁTICAS\RicoPozasMarcial-S12L1\SeatManager.java:492: warning - @param argument "f1," is not a parameter name.
+D:\Documents\Universidad\Primer año\Primer Cuatrimestre\Introducción a la Programación\PRÁTICAS\RicoPozasMarcial-S12L1\SeatManager.java:492: warning - @param argument "f2," is not a parameter name.
+D:\Documents\Universidad\Primer año\Primer Cuatrimestre\Introducción a la Programación\PRÁTICAS\RicoPozasMarcial-S12L1\SeatManager.java:492: warning - @param argument "c1," is not a parameter name.
+D:\Documents\Universidad\Primer año\Primer Cuatrimestre\Introducción a la Programación\PRÁTICAS\RicoPozasMarcial-S12L1\SeatManager.java:492: warning - @param argument "c2," is not a parameter name.
+D:\Documents\Universidad\Primer año\Primer Cuatrimestre\Introducción a la Programación\PRÁTICAS\RicoPozasMarcial-S12L1\SeatManager.java:492: warning - @param argument "section," is not a parameter name.
+D:\Documents\Universidad\Primer año\Primer Cuatrimestre\Introducción a la Programación\PRÁTICAS\RicoPozasMarcial-S12L1\SeatManager.java:361: warning - @param argument "maxPassengers," is not a parameter name.
+D:\Documents\Universidad\Primer año\Primer Cuatrimestre\Introducción a la Programación\PRÁTICAS\RicoPozasMarcial-S12L1\SeatManager.java:434: warning - @param argument "paxNumber," is not a parameter name.
+D:\Documents\Universidad\Primer año\Primer Cuatrimestre\Introducción a la Programación\PRÁTICAS\RicoPozasMarcial-S12L1\SeatManager.java:154: warning - @param argument "row," is not a parameter name.
+D:\Documents\Universidad\Primer año\Primer Cuatrimestre\Introducción a la Programación\PRÁTICAS\RicoPozasMarcial-S12L1\SeatManager.java:239: warning - @param argument "fila," is not a parameter name.
+D:\Documents\Universidad\Primer año\Primer Cuatrimestre\Introducción a la Programación\PRÁTICAS\RicoPozasMarcial-S12L1\SeatManager.java:239: warning - @param argument "columna," is not a parameter name.
+Generating D:\Documents\Universidad\Primer año\Primer Cuatrimestre\Introducción a la Programación\PRÁTICAS\RicoPozasMarcial-S12L1\doc\package-frame.html...
+Generating D:\Documents\Universidad\Primer año\Primer Cuatrimestre\Introducción a la Programación\PRÁTICAS\RicoPozasMarcial-S12L1\doc\package-summary.html...
+Generating D:\Documents\Universidad\Primer año\Primer Cuatrimestre\Introducción a la Programación\PRÁTICAS\RicoPozasMarcial-S12L1\doc\constant-values.html...
+Building index for all the packages and classes...
+Building index for all classes...
+Generating D:\Documents\Universidad\Primer año\Primer Cuatrimestre\Introducción a la Programación\PRÁTICAS\RicoPozasMarcial-S12L1\doc\allclasses-frame.html...
+Generating D:\Documents\Universidad\Primer año\Primer Cuatrimestre\Introducción a la Programación\PRÁTICAS\RicoPozasMarcial-S12L1\doc\allclasses-noframe.html...
+Generating D:\Documents\Universidad\Primer año\Primer Cuatrimestre\Introducción a la Programación\PRÁTICAS\RicoPozasMarcial-S12L1\doc\index.html...
+24 warnings

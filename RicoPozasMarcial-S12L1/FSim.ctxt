@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=FSim
+comment0.text=\r\n\ Clase\ FSim\ de\ la\ Sesion\ no\ Presencial\ 12\r\n\ \r\n\ @author\ MARCIAL\ RICO\ POZAS\ \r\n\ @version\ 05/12/2017\r\n
+comment1.params=planeNumber
+comment1.target=FSim(int)
+comment1.text=\r\n\ constructor\ con\ un\ parametro\ de\ objetos\ de\ la\ clase\ FSim\r\n\ \r\n\ @param\ planeNumber,\ un\ entero\ que\ establece\ el\ numero\ de\ aviones\ en\ la\ simulacion\r\n
+comment2.params=
+comment2.target=void\ fillWithDots()
+comment2.text=\r\n\ metodo\ fillWithDots\ de\ la\ clase\ FSim\r\n
+comment3.params=
+comment3.target=void\ printMap()
+comment3.text=\r\n\ metodo\ printMap\ de\ la\ clas\ FSim\r\n
+comment4.params=
+comment4.target=void\ simulate()
+comment4.text=\r\n\ metodo\ simulate\ de\ la\ clase\ FSim\r\n
+comment5.params=identifier
+comment5.target=void\ eliminar(char)
+comment5.text=\r\n\ metodo\ eliminar\ de\ la\ clase\ FSim\r\n\ \r\n\ @param\ identifier,\ un\ char\ que\ indica\ el\ caracter\ a\ eliminar\r\n
+numComments=6

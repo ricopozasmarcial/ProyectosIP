@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=WheelTest
+comment0.text=\r\n\ The\ test\ class\ WheelTest.\r\n\r\n\ @author\ \ MARCIAL\ RICO\ POZAS\r\n\ @version\ 28/10/2017\r\n
+comment1.params=
+comment1.target=WheelTest()
+comment1.text=\r\n\ Default\ constructor\ for\ test\ class\ WheelTest\r\n
+comment2.params=
+comment2.target=void\ setUp()
+comment2.text=\r\n\ Sets\ up\ the\ test\ fixture.\r\n\r\n\ Called\ before\ every\ test\ case\ method.\r\n
+comment3.params=
+comment3.target=void\ tearDown()
+comment3.text=\r\n\ Tears\ down\ the\ test\ fixture.\r\n\r\n\ Called\ after\ every\ test\ case\ method.\r\n
+comment4.params=
+comment4.target=void\ testTest()
+comment4.text=\r\n\ metodo\ de\ prueba\ de\ test()\r\n\ \r\n
+numComments=5

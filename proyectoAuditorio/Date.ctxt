@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Date
+comment0.text=\r\n\ CLASE\ DATE\ DE\ LA\ SESION\ NO\ PRESENCIAL\ 10\r\n\ \r\n\ @author\ MARCIAL\ RICO\ POZAS\r\n\ @version\ 24/11/2017\r\n
+comment1.params=day\ month\ year
+comment1.target=Date(int,\ int,\ int)
+comment1.text=\r\n\ constructor\ con\ parametros\ de\ objetos\ de\ la\ clase\ Date\r\n\ @param\ day,\ un\ entero\ que\ asigna\ un\ valor\ al\ dia\r\n\ @param\ month,\ un\ entero\ que\ asigna\ un\ valor\ al\ mes\r\n\ @param\ year,\ un\ entero\ que\ asigna\ un\ valor\ al\ a\u00F1o\r\n\ \r\n
+comment2.params=day
+comment2.target=void\ setDay(int)
+comment2.text=\r\n\ metodo\ set\ del\ atributo\ day\r\n\ @param\ day,\ un\ entero\ que\ asigna\ un\ valor\ al\ dia\r\n
+comment3.params=month
+comment3.target=void\ setMonth(int)
+comment3.text=\r\n\ metodo\ set\ del\ atributo\ month\r\n\ @param\ month,\ un\ entero\ que\ asigna\ un\ valor\ al\ mes\r\n
+comment4.params=year
+comment4.target=void\ setYear(int)
+comment4.text=\r\n\ metodo\ set\ del\ atributo\ year\r\n\ @param\ year,\ un\ entero\ que\ asigna\ un\ valor\ al\ a\u00F1o\r\n
+comment5.params=
+comment5.target=int\ getDay()
+comment5.text=\r\n\ metodo\ get\ del\ atributo\ day\r\n\ @return\ el\ valor\ de\ day\r\n
+comment6.params=
+comment6.target=int\ getMonth()
+comment6.text=\r\n\ metodo\ get\ del\ atributo\ month\r\n\ @return\ el\ valor\ de\ month\r\n
+comment7.params=
+comment7.target=int\ getYear()
+comment7.text=\r\n\ metodo\ get\ del\ atributo\ year\r\n\ @return\ el\ valor\ de\ year\r\n
+numComments=8
